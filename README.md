@@ -1,5 +1,7 @@
 "THIS PROTOTYPE IS MADE WITH THE HELP OF A.I. TOOLS AND HTML TO GIVE A RAW EXPERIECE OF A CHESS GAME"
 
+===
+
 # Vantage Chess Pro - Interactive AI Sandbox Prototype
 
 A luxury, dark-themed responsive chess web application prototype engineered for smooth client-side gameplay dynamics. The application interfaces with standard algorithmic logic loops to simulate interactive chess battle states against a localized computing node.
