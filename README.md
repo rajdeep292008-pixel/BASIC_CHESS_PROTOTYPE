@@ -1,6 +1,6 @@
 "THIS PROTOTYPE IS MADE WITH THE HELP OF A.I. TOOLS AND HTML TO GIVE A RAW EXPERIECE OF A CHESS GAME"
 
-===
+---
 
 # Vantage Chess Pro - Interactive AI Sandbox Prototype
 
